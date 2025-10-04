@@ -1,1 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
 
+# Envs
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+kaggle.json
+
+# Colab
+.colab/
